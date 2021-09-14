@@ -1,0 +1,22 @@
+Anaconda Powershall
+Environment: evn_easyocr
+
+https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#viewing-a-list-of-your-environments
+
+How to Start:
+1) Open Anaconda Prompt shell
+2) activate evn_easyocr
+3) Go to folder using cd command where easyocr folder located. (cd C:\Users\CTO\Desktop\easyocr)
+
+
+Kernal Problem Solved by:
+pip install --upgrade pywin32==224
+
+
+All Installation:
+Installation steps - 
+1.conda create -n env_easyocr python==3.6.5
+2.activate env_easyocr
+3.conda install pytorch torchvision cpuonly -c pytorch
+4.pip install easyocr
+5. pip install jupyter notebook
