@@ -12,6 +12,11 @@ How to Start:
 Kernal Problem Solved by:
 pip install --upgrade pywin32==224
 
+# opencv python version problem solve
+Try uninstall and install(version 4.1.2.30) Headless main modules package
+pip uninstall opencv-python-headless 
+and then install
+pip install opencv-python-headless==4.1.2.30
 
 All Installation:
 Installation steps - 
