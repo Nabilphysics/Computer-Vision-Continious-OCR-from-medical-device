@@ -12,7 +12,7 @@ How to Start:
 Kernal Problem Solved by:
 pip install --upgrade pywin32==224
 
-# opencv python version problem solve
+# opencv python version problem solve (go to anaconda terminal and then do )
 Try uninstall and install(version 4.1.2.30) Headless main modules package
 pip uninstall opencv-python-headless 
 and then install
