@@ -5,7 +5,7 @@ https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.h
 
 How to Start:
 1) Open Anaconda Prompt shell
-2) activate evn_easyocr
+2) conda activate evn_easyocr
 3) Go to folder using cd command where easyocr folder located. (cd C:\Users\CTO\Desktop\easyocr)
 
 
